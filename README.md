@@ -2,22 +2,22 @@
 
 This repository contains my academic and professional certificates.
 
-Certificates Included
+**Certificates Included**
 
 1. HP AI for Beginners
 
-Issued by:          HP LIFE
+***Issued by:***          HP LIFE
 
-Skills learned:     Artificial Intelligence basics, data concepts
+***Skills learned:***     Artificial Intelligence basics, data concepts
 
-View Certificate:   Click on the file above
+***View Certificate:***   Click on the file above
 
 2. Internship Certificate
 
-Company:            DevelopersHub Corporation
+***Company:***            DevelopersHub Corporation
 
-Role:               Data Science Intern
+***Role:***               Data Science Intern
 
-Skills gained:      Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
+***Skills gained:***      Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
-View Certificate:   Click on the file above
+***View Certificate:***   Click on the file above
