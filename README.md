@@ -21,3 +21,28 @@ This repository contains my academic and professional certificates.
 ***Skills gained:***      Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
 ***View Certificate:***   Click on the file above
+
+3. SQL for Data Science
+
+***Issued by:***          Coursera
+
+***Skills learned:***     SQL Basics
+
+***View Certificate:***   Click on the file above
+
+4. Quiz Certificate
+
+
+***Issued by:***          Coursera
+
+***Skills learned:***     SQL Basics
+
+***View Certificate:***   Click on the file above
+
+5. Data Analytics with Python
+
+***Issued by:***          Coursera
+
+***Skills learned:***     SQL Basics
+
+***View Certificate:***   Click on the file above
