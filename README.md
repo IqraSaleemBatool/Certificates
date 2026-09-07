@@ -32,9 +32,9 @@ This repository contains my academic and professional certificates.
 
 4. Quiz Certificate
 
-***Issued by:***          Coursera
+***Issued by:***          Campus Crew
 
-***Skills learned:***     SQL Basics
+***Skills learned:***     Data Analytics
 
 ***View Certificate:***   Click on the file above
 
