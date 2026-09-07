@@ -32,7 +32,6 @@ This repository contains my academic and professional certificates.
 
 4. Quiz Certificate
 
-
 ***Issued by:***          Coursera
 
 ***Skills learned:***     SQL Basics
@@ -43,6 +42,6 @@ This repository contains my academic and professional certificates.
 
 ***Issued by:***          Coursera
 
-***Skills learned:***     SQL Basics
+***Skills learned:***     Python,Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
 ***View Certificate:***   Click on the file above
