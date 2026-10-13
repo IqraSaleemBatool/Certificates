@@ -53,3 +53,11 @@ This repository contains my academic and professional certificates.
 ***Skills learned:***     Claude Knowledge
 
 ***View Certificate:***   Click on the file above
+
+7. Google Advanced Data Analytics 
+
+***Issued by:***          Google(Coursera)
+
+***Skills learned:***     Python,Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
+
+***View Certificate:***   Click on the file above
