@@ -40,7 +40,7 @@ This repository contains my academic and professional certificates.
 
 5. Data Analytics with Python
 
-***Issued by:***          IBM(Coursera)
+***Issued by:***          Simplilearn(Coursera)
 
 ***Skills learned:***     Python,Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
