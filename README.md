@@ -24,7 +24,7 @@ This repository contains my academic and professional certificates.
 
 3. SQL for Data Science
 
-***Issued by:***          Coursera
+***Issued by:***          University of California, Davis(Coursera)
 
 ***Skills learned:***     SQL Basics
 
@@ -40,13 +40,13 @@ This repository contains my academic and professional certificates.
 
 5. Data Analytics with Python
 
-***Issued by:***          Coursera
+***Issued by:***          IBM(Coursera)
 
 ***Skills learned:***     Python,Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
 ***View Certificate:***   Click on the file above
 
-6. SQL for Data Science
+6. Claude101
 
 ***Issued by:***          Anthropic
 
