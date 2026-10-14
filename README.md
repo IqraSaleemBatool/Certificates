@@ -61,3 +61,13 @@ This repository contains my academic and professional certificates.
 ***Skills learned:***     Python,Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
 
 ***View Certificate:***   Click on the file above
+
+8. Internship Certificate
+
+***Company:***            DevelopersHub Corporation
+
+***Role:***               Data Science Intern
+
+***Skills gained:***      Data analysis, Python, Machine Learning, Data Preprocessing ,Data Visualisation
+
+***View Certificate:***   Click on the file above
