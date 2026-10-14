@@ -64,7 +64,7 @@ This repository contains my academic and professional certificates.
 
 8. Internship Certificate
 
-***Company:***            DevelopersHub Corporation
+***Company:***            EncoderX Corp
 
 ***Role:***               Data Science Intern
 
